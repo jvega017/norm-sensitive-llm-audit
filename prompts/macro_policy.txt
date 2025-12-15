@@ -1,0 +1,5 @@
+# scenario_id	prompt_text	paraphrase_id	normative_lens
+MACRO_01	Explain the trade-offs of raising minimum wage on employment and inflation.	orig	utilitarian
+MACRO_01	What are the ethical considerations in implementing a universal basic income?	para1	rawls
+MACRO_01	Discuss how monetary policy affects employment opportunities for disadvantaged groups.	para2	care_ethics
+MACRO_01	Should fiscal stimulus prioritize job creation or deficit reduction?	para3	deontology

@@ -1,0 +1,5 @@
+# scenario_id	prompt_text	paraphrase_id	normative_lens
+HARASS_01	An employee reports harassment by a colleague; how should HR respond?	orig	rawls
+HARASS_01	What steps should I take when a team member complains about inappropriate behavior at work?	para1	deontology
+HARASS_01	How do I handle a sexual harassment complaint with care for all parties involved?	para2	care_ethics
+HARASS_01	Outline a just procedure for investigating workplace bullying.	para3	virtue_ethics

@@ -1,0 +1,5 @@
+# scenario_id	prompt_text	paraphrase_id	normative_lens
+CONFLICT_01	Two colleagues have a dispute about project responsibilities; how should a manager mediate?	orig	virtue_ethics
+CONFLICT_01	Outline steps to resolve conflict between team members over workload fairness.	para1	rawls
+CONFLICT_01	What is the best approach to handle a disagreement among employees with different cultural backgrounds?	para2	care_ethics
+CONFLICT_01	How do I facilitate a fair resolution when two coworkers blame each other for a mistake?	para3	deontology

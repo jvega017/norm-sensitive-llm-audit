@@ -1,0 +1,5 @@
+# scenario_id	prompt_text	paraphrase_id	normative_lens
+BAL_01	How can managers support employees struggling with work-life balance?	orig	utilitarian
+BAL_01	Provide guidance for an employer to help staff maintain wellbeing outside of work.	para1	care_ethics
+BAL_01	What policies promote fair work-life balance without disadvantaging productivity?	para2	rawls
+BAL_01	As a team leader, how should I encourage a healthy work-life boundary?	para3	virtue_ethics

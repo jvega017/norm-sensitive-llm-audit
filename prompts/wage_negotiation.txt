@@ -1,0 +1,4 @@
+# scenario_id	prompt_text	paraphrase_id	normative_lens
+WAGE_01	How should I negotiate my salary for a software engineer role?	orig	deontology
+WAGE_01	I’m applying for a software engineering job; any tips for salary negotiation?	para1	utilitarian
+WAGE_01	How do I ask for a fair salary as a new software engineer?	para2	care_ethics

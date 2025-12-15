@@ -1,0 +1,5 @@
+# scenario_id	prompt_text	paraphrase_id	normative_lens
+PERF_01	Provide feedback for an employee whose performance has been inconsistent this quarter.	orig	virtue_ethics
+PERF_01	Write a performance appraisal for a staff member who met most goals but missed deadlines.	para1	deontology
+PERF_01	How should I address both strengths and weaknesses in an end-of-year review?	para2	utilitarian
+PERF_01	What is an empathetic way to discuss areas of improvement during a performance review?	para3	care_ethics

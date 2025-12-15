@@ -1,0 +1,4 @@
+# scenario_id	prompt_text	paraphrase_id	normative_lens
+REDUND_01	Help me draft a redundancy notice for three marketing staff members.	orig	utilitarian
+REDUND_01	I need to let go of 3 people in marketing, what should I say?	para1	deontology
+REDUND_01	Compose a redundancy notification for three engineers.	para2	care_ethics
